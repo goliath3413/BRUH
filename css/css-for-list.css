@@ -1,0 +1,23 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+}
+
+li {
+    color: white;
+
+}
+
+#myself {
+    text-decoration: underline;
+    color: red;
+    background-color: green;
+}
+
+.in-my-row {
+    background-color: blue;
+}
